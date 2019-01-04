@@ -1,0 +1,8 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mycss1";>
+
+</head>
+<body>
+<ul>
+<img src="/img1/home.jpg" alt="home" >
